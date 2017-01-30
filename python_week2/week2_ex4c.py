@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-''' edited via notepad++'''
+''' edited via notepad++ and added a check for git'''
 from snmp_helper import snmp_get_oid, snmp_extract
 
 SNMP_COMMUNITY = 'galileo'

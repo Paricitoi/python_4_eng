@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 
+''' comment number 666'''
 import telnetlib
 import sys
 import time
